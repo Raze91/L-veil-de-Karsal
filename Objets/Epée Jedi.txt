@@ -1,4 +1,4 @@
-ÉPÉE RADIEUSE
+ÉPÉE JEDI
 [ Sun Blade ]
 Arme (épée longue), rare (nécessite un lien)
 Cet objet semble être une poignée d'épée longue. Lorsque vous saisissez la poignée, vous pouvez utiliser une action bonus pour faire apparaitre une lame de pure radiance, ou pour faire disparaître la lame. Lorsque la lame est sortie, l'épée longue magique a la propriété finesse. Si vous maîtrisez les épées longues ou courtes, vous maîtrisez l'épée radieuse. 

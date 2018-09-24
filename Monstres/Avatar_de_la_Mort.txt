@@ -1,5 +1,5 @@
 AVATAR DE LA MORT
-Mort-vivant de taille M, neutre mauvais
+Mort-Vivant de taille M, neutre mauvais
 Classe d'armure 20
 Points de vie la moitié des points de vie maximums de son invocateur
 Vitesse 18 m, vol 18 m (stationnaire)
@@ -20,4 +20,4 @@ Mouvement intangible. L'avatar peut se déplacer au travers des autres créatures 
 Immunité au changement. L'avatar est immunisé aux capacités qui transforment en mort-vivant.
 
 ACTIONS
-Faux moissonneuse. L'avatar balaye de sa faux une créature située à 1,50 mètre de lui, infligeant 7 (1d8 + 3) dégâts tranchants + 4 (1d8) dégâts nécrotiques.
+Faux moissonneuse. L'avatar balaye de sa faux cibernétique une créature située à 1,50 mètre de lui, infligeant 7 (1d8 + 3) dégâts tranchants + 4 (1d8) dégâts nécrotiques.

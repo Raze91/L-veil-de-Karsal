@@ -1,0 +1,6 @@
+Jetpack 3.0
+
+Lorsque vous portez ce sac à dos, vous pouvez utiliser une action pour prononcer son mot de commande. 
+Cela transforme un sac à dos en un jetpack sur votre dos pendant 1 heure, 
+ou jusqu'à ce que vous répétiez le mot de commande au prix d'une action. Le jetpack vous donnent une vitesse de vol de 18 mètres. 
+Quand il disparait, vous ne pouvez plus l'utiliser à nouveau durant 1d12 heures. 

@@ -1,6 +1,6 @@
 CHEVALIER DE LA MORT
 Mort-vivant de taille M, chaotique mauvais
-Classe d'armure 20 (harnois, bouclier)
+Classe d'armure 20 (exosquelette, bouclier d'energie)
 Points de vie 180 (19d8 + 95)
 Vitesse 9 m
 FOR
@@ -30,7 +30,7 @@ Niveau 3 (3 emplacements) : arme élémentaire, dissipation de la magie
 Niveau 4 (3 emplacements) : bannissement, châtiment assommant
 Niveau 5 (2 emplacements) : vague destructrice (nécrotique)
 ACTIONS
-Attaques multiples. Le chevalier de la mort réalise trois attaques avec son épée longue.
+Attaques multiples. Le chevalier de la mort réalise trois attaques avec son épée longue bionique.
 
 Épée longue. Attaque au corps à corps avec une arme : +11 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d8 + 5) dégâts tranchants, ou 10 (1d10 + 5) dégâts tranchants si tenue à deux mains, plus 18 (4d8) dégâts nécrotiques.
 
