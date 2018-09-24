@@ -1,0 +1,23 @@
+BÊTE ÉCLIPSANTE
+Créature monstrueuse de taille G, loyal mauvais
+Classe d'armure 13 (armure naturelle)
+Points de vie 85 (10d10 + 30)
+Vitesse 12 m
+FOR
+18 (+4)  DEX
+15 (+2)  CON
+16 (+3)  INT
+6 (-2)  SAG
+12 (+1)  CHA
+8 (-1)
+Sens vision dans le noir à 18 m, Perception passive 11
+Langues -
+Puissance 3 (700 PX)
+Dérobade. Si la bête éclipsante est soumise à un effet qui lui permet d'effectuer un jet de sauvegarde pour ne subir que la moitié des dégâts initiaux, elle ne subit aucun dégât si elle réussit son jet de sauvegarde, et seulement la moitié des dégâts si elle échoue.
+
+Déplacement. La bête éclipsante projette une illusion magique qui fait apparaître la bête éclipsante à quelques centimètres de sa véritable localisation ; de ce fait, les jets d'attaque qui ciblent la bête éclipsante ont un désavantage contre elle. Si elle est touchée par une attaque, ce trait est interrompu jusqu'à la fin de son prochain tour. Ce trait est également interrompu tant que la bête éclipsante est incapable d'agir ou que sa vitesse de déplacement est égale à 0 mètre.
+
+ACTIONS
+Attaques multiples. La bête éclipsante effectue deux attaques avec ses tentacules.
+
+Tentacule. Attaque au corps à corps avec une arme : +6 au toucher, allonge 3 m, une cible. Touché : 7 (1d6 + 4) dégâts contondants + 3 (1d6) dégâts perforants.

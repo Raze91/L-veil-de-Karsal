@@ -1,0 +1,29 @@
+OMBRE
+[ Shadow ]
+Mort-vivant de taille M, chaotique mauvais
+Classe d'armure 12
+Points de vie 16 (3d8 + 3)
+Vitesse 12 m
+FOR
+6 (-2)  DEX
+14 (+2)  CON
+13 (+1)  INT
+6 (-2)  SAG
+10 (+0)  CHA
+8 (-1)
+Compétences Discrétion +4 (ou +6 dans une lumière faible ou dans les ténèbres)
+Vulnérabilités aux dégâts radiant
+Résistances aux dégâts acide, froid, feu, foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques
+Immunités aux dégâts nécrotique, poison
+Immunités aux conditions épuisé, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé
+Sens vision dans le noir à 18 m, Perception passive 10
+Langues -
+Puissance 1/2 (100 PX)
+Amorphe. L'ombre peut se déplacer au travers d'interstices pas plus larges que 2,50 cm sans être considérée comme se déplaçant dans un espace étroit.
+
+Dissimulation dans l'ombre. Tant qu'elle se trouve dans des ténèbres ou qu'elle est exposée à une lumière faible, l'ombre peut effectuer l'action Se cacher en utilisant une action bonus.
+
+Hypersensibilité à la lumière du soleil. Tant qu'elle est exposée à la lumière du soleil, l'ombre a un désavantage aux jets d'attaque, aux jets de caractéristique et aux jets de sauvegarde.
+
+ACTIONS
+Absorption de Force. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une créature. Touché : 9 (2d6 + 2) dégâts nécrotiques, et la valeur de Force de la cible est réduite de 1d4. La cible meurt si cet effet réduit sa Force à 0. Sinon, la réduction de Force dure jusqu'à ce que la cible termine un repos court ou long. Si un humanoïde non mauvais meurt de cette attaque, une nouvelle ombre surgit de son corps 1d4 heures plus tard.

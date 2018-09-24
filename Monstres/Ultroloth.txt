@@ -1,0 +1,37 @@
+ULTROLOTH
+Fiélon (yugoloth) de taille M, neutre mauvais
+Classe d'armure 19 (armure naturelle)
+Points de vie 153 (18d8 + 72)
+Vitesse 9 m, vol 18 m
+FOR
+16 (+3)  DEX
+16 (+3)  CON
+18 (+4)  INT
+18 (+4)  SAG
+15 (+2)  CHA
+19 (+4)
+Compétences Discrétion +8, Intimidation +9, Perception +7
+Résistances aux dégâts froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques
+Immunités aux dégâts acide, poison
+Immunités aux conditions charmé, effrayé, empoisonné
+Sens vision véritable à 36 m, Perception passive 17
+Langues abyssal, infernal, télépathie à 36 m
+Puissance 13 (10000 PX)
+Sorts innés. La caractéristique de Sorts innés de l'ultroloth est le Charisme (sauvegarde contre ses sorts DD 17). L'ultroloth peut lancer les sorts suivants de manière innée, sans avoir besoin de composantes matérielles :
+
+À volonté : modification d'apparence, clairvoyance, ténèbres, détection de la magie, détection des pensées, dissipation de la magie, invisibilité (personnel uniquement), suggestion
+3/jour chacun : porte dimensionnelle, peur, mur de feu
+1/jour chacun : tempête de feu, suggestion de groupe
+Résistance à la magie. L'ultroloth a l'avantage aux jets de sauvegarde contre les sorts et les effets magiques.
+
+Armes magiques. Les attaques avec une arme de l'ultroloth sont magiques.
+
+ACTIONS
+Attaques multiples. L'ultroloth peut utiliser son regard hypnotique et effectuer trois attaques au corps à corps.
+
+Épée longue. Attaque au corps à corps avec une arme : +8 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts tranchants, ou 8 (1d10 + 3) dégâts tranchants si elle est utilisée à deux mains.
+
+Regard Hypnotique. Les yeux de l'ultroloth scintillent d'une lueur opalescente tandis qu'il cible une créature qu'il peut voir et se trouvant à 9 mètre de lui maximum. Si la cible peut voir l'ultroloth, elle doit réussir un jet de sauvegarde de Sagesse DD 17 contre ce pouvoir magique sous peine d'être charmée jusqu'à la fin du prochain tour de l'ultroloth. La cible charmée est étourdie. Si le jet de sauvegarde de la cible est une réussite, la cible est immunisée au regard des ultroloth pour les prochaines 24 heures.
+
+Téléportation. L'ultroloth se téléporte magiquement, lui et tout l'équipement qu'il porte et transporte, jusqu'à un emplacement inoccupé qu'il peut voir et situé à 18 mètres maximum.
+
